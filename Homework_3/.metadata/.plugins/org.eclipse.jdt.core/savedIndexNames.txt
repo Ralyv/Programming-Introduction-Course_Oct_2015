@@ -1,0 +1,8 @@
+INDEX VERSION 1.127+D:\00.PIC_Repository\Programming-Introduction-Course_Oct_2015\Homework_3\.metadata\.plugins\org.eclipse.jdt.core
+3271125451.index
+3920435616.index
+2580016431.index
+128153740.index
+176336209.index
+1019211297.index
+1889814554.index

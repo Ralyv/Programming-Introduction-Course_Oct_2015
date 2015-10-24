@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Homework_Task_02 {
+
+	public static void main(String[] args) {
+		Scanner task02  = new Scanner(System.in, "UTF-8");
+    System.out.println("Type the text: ");
+    String text = task02.nextLine();
+    
+    String hi = "HELLO";
+    boolean result = (text == hi);
+    
+    System.out.print(text == hi + result);
+    //System.out.print("text == hi: ");
+    //System.out.println(result);   
+ 	}
+
+}

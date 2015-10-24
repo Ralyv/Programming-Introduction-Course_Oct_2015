@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class Homework_Task_03 {
+
+	public static void main(String[] args) {
+	Scanner task  = new Scanner(System.in);
+	System.out.println("a = ");
+	int a = task.nextInt();
+	
+	System.out.println("h = ");
+	int h = task.nextInt();
+	
+	}
+
+}

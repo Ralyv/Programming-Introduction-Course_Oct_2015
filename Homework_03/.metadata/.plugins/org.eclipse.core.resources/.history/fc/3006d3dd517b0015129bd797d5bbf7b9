@@ -1,0 +1,21 @@
+
+import java.util.Scanner;
+
+public class Task_03 {
+
+	public static void main(String[] args) {
+		Scanner task03 = new Scanner(System.in);
+		System.out.println("a = ");
+		int a = task03.nextInt();
+
+		System.out.println("h = ");
+		double h = task03.nextInt();
+
+		System.out.println("a = " + a);
+		System.out.println("h = " + h);
+		System.out.print("S = (a*h)/2 = " + (a * h) / 2);
+		
+		task03.close();
+	}
+
+}
